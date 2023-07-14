@@ -1,2 +1,3 @@
-# Ass2_ComputerNetwork
-Assignment 2
+# ComputerNetwork
+Streaming video by Python
+Design a network system
